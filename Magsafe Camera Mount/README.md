@@ -16,21 +16,30 @@ See https://www.theverge.com/2022/6/7/23158510 for more information.
 
 ## Model Files:
 
+### Original
+
+* [Shapr3D (original model)](Originals/Magsafe%20Camera%20Mount.shapr)
+
 ### MacBook Pro
 
 This design is for MacBook Pro (tested on 16" M1 MacBook Pro) but should fit any display that is ~5mm deep.
 
-* [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr)
-* [Step (CAD interchange)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.step)
-* [USDZ (for AR viewing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
+* [Step (CAD interchange)](STEP%20Files/Magsafe%20Camera%20Mount_MacBook%20Pro.step)
+* [3MF (Printable)](Printable%20Files/Magsafe%20Camera%20Mount_MacBook%20Pro.3mf)
 
 ### iMac Pro
 
 This design is contoured to fit well on the back of an iMac Pro. It may work with other iMacs but is unlikely to work on the new Apple Silicon iMacs (perhaps the MacBook design one will work?)
 
-* [Shapr3D (original model)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.shapr):
-* [Step (CAD interchange)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.step)
-* [USDZ (for AR viewing)](Models/iMac%20Pro%20Continuity%20Camera%20Mount.usdz)
+* [Step (CAD interchange)](STEP%20Files/Magsafe%20Camera%20Mount_iMac%20Pro.step)
+* [3MF (Printable)](Printable%20Files/Magsafe%20Camera%20Mount_iMac%20Pro.3mf)
+
+### Studio Display
+
+* Angled: [Step (CAD interchange)](STEP%20Files/Magsafe%20Camera%20Mount_Studio%20Display%20(Angled).step)
+* Angled: [3MF (Printable)](Printable%20Files/Magsafe%20Camera%20Mount_Studio%20Display%20(Angled).3mf)
+* Straight: [Step (CAD interchange)](STEP%20Files/Magsafe%20Camera%20Mount_Studio%20Display%20(Straight).step)
+* Straight: [3MF (Printable)](Printable%20Files/Magsafe%20Camera%20Mount_Studio%20Display%20(Straight).3mf)
 
 ## License
 
